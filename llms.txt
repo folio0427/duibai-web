@@ -1,0 +1,21 @@
+# Duibai (對白)
+
+> This site hosts the public legal documents for Duibai (對白), a film / TV-series-centered
+> friend-matching app for Taiwan. Duibai is a sister product to Folio (以書交友 app) but is an
+> independent product with its own Supabase backend, accounts, and data. This site exists solely
+> to host publicly-accessible legal pages (no login required) — it is not the app's marketing
+> site.
+
+Official site: https://folio0427.github.io/duibai-web/ · Contact: folio0427@gmail.com
+
+## Legal (繁體中文)
+
+- [服務條款](https://folio0427.github.io/duibai-web/legal/terms-zh/): 對白 app 服務條款，繁體中文版。
+- [隱私權政策](https://folio0427.github.io/duibai-web/legal/privacy-zh/): 對白 app 隱私權政策，繁體中文版。
+- [如何刪除您的對白帳號](https://folio0427.github.io/duibai-web/legal/account-deletion-zh/): 帳號刪除說明，免登入公開查閱，符合 App Store 審查要求。
+
+## Legal (English)
+
+- [Terms of Service](https://folio0427.github.io/duibai-web/legal/terms-en/): Terms of Service for the Duibai app, English version.
+- [Privacy Policy](https://folio0427.github.io/duibai-web/legal/privacy-en/): Privacy Policy for the Duibai app, English version.
+- [How to Delete Your Duibai Account](https://folio0427.github.io/duibai-web/legal/account-deletion-en/): Account deletion instructions, publicly viewable without login, per App Store review guidelines.
