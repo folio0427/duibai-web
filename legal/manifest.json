@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "_comment": "對白法律文件 manifest — 最新條款/隱私版號的 source of truth。GitHub Action(.github/workflows/sync-tos-versions.yml)在本檔變動時同步進對白 Supabase 的 tos_versions(app 讀它判斷是否要重新同意)。條款有變更時:改對應 doc 的 version + change_type + summary,push 即自動生效。change_type: minor=靜默、major/data_consent_required=強制重新同意。",
+  "terms": {
+    "version": "0.1",
+    "effective_date": "2026-07-18T00:00:00+08:00",
+    "change_type": "minor",
+    "summary_zh": "上架首版(2026-07-18 生效)",
+    "summary_en": "Launch version (effective 2026-07-18)",
+    "content_url_zh": "https://folio0427.github.io/duibai-web/legal/terms-zh/",
+    "content_url_en": "https://folio0427.github.io/duibai-web/legal/terms-en/"
+  },
+  "privacy": {
+    "version": "0.1",
+    "effective_date": "2026-07-18T00:00:00+08:00",
+    "change_type": "minor",
+    "summary_zh": "上架首版(2026-07-18 生效)",
+    "summary_en": "Launch version (effective 2026-07-18)",
+    "content_url_zh": "https://folio0427.github.io/duibai-web/legal/privacy-zh/",
+    "content_url_en": "https://folio0427.github.io/duibai-web/legal/privacy-en/"
+  }
+}
